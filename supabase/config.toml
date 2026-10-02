@@ -1,0 +1,5 @@
+[functions.ai-recommend]
+verify_jwt = false
+
+[functions.ai-categorize]
+verify_jwt = false
